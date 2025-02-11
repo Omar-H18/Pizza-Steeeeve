@@ -1,0 +1,24 @@
+img {
+    width: 250px;
+}
+/*body {
+    
+    background-color: rgb(151, 93, 16);
+  }
+  img {
+    display: block;       
+    margin: 0 auto;       
+  }*/
+  body {
+    /* Set the background image to your GIF */
+    background: url('gif.jpg') no-repeat center center fixed;
+    
+    
+    background-size: cover;
+    
+    
+    background-color: #000; 
+  }
+  
+    
+  
